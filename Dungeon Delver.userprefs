@@ -1,0 +1,27 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\__Scripts\GateKeeper.cs">
+    <Files>
+      <File FileName="Assets\Resources\DelverCollisions.txt" Line="1" Column="1" />
+      <File FileName="Assets\Resources\DelverGrapTiles.txt" Line="1" Column="1" />
+      <File FileName="Assets\Resources\DelverLevel_Eagle.txt" Line="1" Column="1" />
+      <File FileName="Assets\__Scripts\Tile.cs" Line="27" Column="76" />
+      <File FileName="Assets\__Scripts\TileCamera.cs" Line="1" Column="1" />
+      <File FileName="Assets\__Scripts\Dray.cs" Line="1" Column="1" />
+      <File FileName="Assets\__Scripts\SwordController.cs" Line="1" Column="1" />
+      <File FileName="Assets\__Scripts\Enemy.cs" Line="1" Column="1" />
+      <File FileName="Assets\__Scripts\Skeletos.cs" Line="1" Column="1" />
+      <File FileName="Assets\__Scripts\InRoom.cs" Line="1" Column="1" />
+      <File FileName="Assets\__Scripts\IFacingMover.cs" Line="1" Column="1" />
+      <File FileName="Assets\__Scripts\GridMove.cs" Line="1" Column="1" />
+      <File FileName="Assets\__Scripts\CanFollowDray.cs" Line="1" Column="1" />
+      <File FileName="Assets\__Scripts\IKeyMaster.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\DelverLevel_Hat.txt" Line="1" Column="1" />
+      <File FileName="Assets\__Scripts\GateKeeper.cs" Line="14" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
